@@ -1,3 +1,4 @@
 # Guillermo
-Yop
-Físico apasionado por las matemáticas. En proceso de aprendizaje. 
+
+Físico apasionado por las matemáticas. Estudiante de Maestría en Cómputo Estadístico en CIMAT.
+En proceso de aprendizaje. 
